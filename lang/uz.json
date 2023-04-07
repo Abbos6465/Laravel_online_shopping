@@ -1,0 +1,23 @@
+{
+    "Category": "Kategoriya",
+    "Telephone":"Telefon",
+    "Tablet":"Planshet",
+    "Laptop":"Noutbuk",
+    "Log in":"Kirish",
+    "Product created successfully":"Mahsulot muvaffaqiyatli yaratildi",
+    "All products":"Barcha mahsulotlar",
+    "Update":"O'zgartirish",
+    "Delete":"O'chirish",
+    "Create product": "Mahsulot qo'shish",
+    "All":"Barchasi",
+    "Category and brand add successfully": "Kategoriya va brend muvaffaqiyatli qo'shildi",
+    "Category or brand  not added": "Kategoriya yoki brend qo'shilmagan",
+    "Category and brand update successfully": "Kategoriya va brend muvaffaqiyatli oz'gartirildi",
+    "Category or brand  not update": "Kategoriya yoki brend o'zgartirilmadi",
+    "Title":"Sarlavha",
+    "Price": "Narxi",
+    "Content": "Tavsif",
+    "Submit": "Jo'natish",
+    "Update product": "Mahsulotni o'zgartish",
+    "Log out": "chiqish"
+}
